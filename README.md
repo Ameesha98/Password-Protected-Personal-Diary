@@ -16,7 +16,3 @@ The basic user-defined functions used in this project are listed below:
 4. void modify_record() – to modify and update an added record
 5. void edit_password() – to modify/change a password
 6. void delete_record() – to delete or remove a record permanently from system file
-
-#### Diagram
-
-![Alt text](https://github.com/Ameesha98/Password-Protected-Personal-Diary/presentation/diagram.png)
